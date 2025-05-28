@@ -1,0 +1,32 @@
+{
+  "name": "training-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjana2003rajput/Training-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjana2003rajput/Training-Assignment/issues"
+  },
+  "homepage": "https://github.com/Sanjana2003rajput/Training-Assignment#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "react-router-dom": "^7.6.1",
+    "react-toastify": "^11.0.5"
+  },
+  "description": ""
+}
